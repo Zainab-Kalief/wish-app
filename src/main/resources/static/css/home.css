@@ -1,0 +1,85 @@
+
+.body {
+	    margin-top: 80px;
+}
+.nav-link {
+	    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+}
+.search-input {
+	width: 700px;
+}
+.form-control { display: inline-block; }
+.input-one { margin-right: 20px; }
+.input-two { margin-left: 20px; }
+.wish-count {
+	position: absolute;
+    top: 5px;
+    margin-left: 100px;
+    width: 25px;
+    height: 25px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+  text-align: center;
+}
+header {
+	text-align: center;
+}
+.search-input {
+	margin: 40px auto;
+}
+#search-submit {
+	 color: #fff;
+  background: -webkit-linear-gradient(left, #22d686, #24d3d3, #22d686, #24d3d3);
+  background: linear-gradient(to right, #22d686, #24d3d3, #22d686, #24d3d3);
+  background-size: 600% 100%;
+  -webkit-animation: HeroBG 20s ease infinite;
+          animation: HeroBG 20s ease infinite;
+  border-radius: 50px;
+	width: 150px;
+	 margin: 40px auto;  
+	  height: 50px;      
+}
+.row-users {
+	    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.users h5 {
+	display: inline-block;
+	margin-right: 10px;
+}
+.follow-button {
+	border-radius: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.recent, #following {
+	    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#all {
+	color: grey;
+}
+.following-name {
+	margin-bottom: 20px;
+}
+#deny-wish { background-color: grey }
+.grant-wish-button {   background: -webkit-linear-gradient(left, #22d686, #24d3d3, #22d686, #24d3d3);
+  background: linear-gradient(to right, #22d686, #24d3d3, #22d686, #24d3d3);
+  background-size: 600% 100%;
+  -webkit-animation: HeroBG 20s ease infinite;
+          animation: HeroBG 20s ease infinite; s }
+.grant-wish-button, #deny-wish {
+	 color: #fff;
+  border-radius: 50px;
+	width: 150px;
+	border: none;
+	    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.py-5 {
+	    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
